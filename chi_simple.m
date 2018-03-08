@@ -76,3 +76,5 @@ writetable(s,'ne.txt','Delimiter',' ','WriteRowNames',true)
 print -dpdf chi.pdf
 
 %https://www.papeeria.com/join?token_id=44bc521a-56ae-4455-8548-d77311064095&retry=3
+%https://www.sharelatex.com/1545546613dfxmkdxrhtfg
+
